@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mehdiasgar1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in math & physics
+- 🌱 I’m currently learning theoretical physics & js
+- 💞️ I’m looking to collaborate on problem solving
+- 📫 How to reach me : i'm mehdi_asgar1 everywhere
+- 
 
 <!---
 mehdiasgar1/mehdiasgar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
